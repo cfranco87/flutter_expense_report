@@ -1,0 +1,65 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../source/flutter_expense_report"
+		},
+		{
+			"path": "../../.dart_tool"
+		},
+		{
+			"path": "../../.dart_tool/chrome-device"
+		},
+		{
+			"path": "../../.dart_tool/dartpad"
+		},
+		{
+			"path": "../../.dart_tool/extension_discovery"
+		},
+		{
+			"path": "../../.dart_tool/flutter_build"
+		},
+		{
+			"path": "../../.idea"
+		},
+		{
+			"path": "../../android"
+		},
+		{
+			"path": "../../build"
+		},
+		{
+			"path": "../../flutter_expense_report"
+		},
+		{
+			"path": "../../ios"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../widgets"
+		},
+		{
+			"path": "../widgets/chart"
+		},
+		{
+			"path": "../../linux"
+		},
+		{
+			"path": "../../macos"
+		},
+		{
+			"path": "../../test"
+		},
+		{
+			"path": "../../web"
+		},
+		{
+			"path": "../../windows"
+		}
+	],
+	"settings": {}
+}
